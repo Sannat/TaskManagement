@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jcLde9FDlisU1shwe+wd4MEx9rmEFvsd5Nj1mEve+afVgU4RYnFGPGzvl47ckiceyWAGHVMy6+FAr9aZbhnS1Q==",
+  "success": true,
+  "projectFilePath": "C:\\MYOB\\Self-Projects\\TaskManagement\\src\\Taskmanagement.API\\Taskmanagement.API\\Taskmanagement.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sannat.kumar\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}
